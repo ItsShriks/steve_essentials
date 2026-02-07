@@ -30,3 +30,7 @@
 	path = neo_srvs2
 	url = https://github.com/ItsShriks/neo_srvs2.git
 	branch = dev
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = https://github.com/ItsShriks/realsense-ros.git
+	branch = dev
