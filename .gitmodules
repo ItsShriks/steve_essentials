@@ -5,7 +5,7 @@
 [submodule "neo_kinematics_omnidrive2"]
 	path = neo_kinematics_omnidrive2
 	url = ../neo_kinematics_omnidrive2.git
-	branch = dev
+	branch = test
 [submodule "neo_common2"]
 	path = neo_common2
 	url = ../neo_common2.git
